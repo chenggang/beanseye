@@ -27,4 +27,4 @@ as configured, by any memcached client.
 
 There is a web monitor on http://localhost:7908/ at default.
 
-test
+test, hello world.
