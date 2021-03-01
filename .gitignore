@@ -8,3 +8,4 @@
 /src/github.com/
 tags
 *.pyc
+.idea
